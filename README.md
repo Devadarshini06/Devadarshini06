@@ -39,15 +39,15 @@ Passionate developer interested in AI, Machine Learning, Data Analytics, Busines
 - Student Management System
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=deva07&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=deva07&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deva07&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Devadarshini06&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Devadarshini06&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devadarshini06&layout=compact&theme=tokyonight)
 
 ## 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=deva07&theme=github-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Devadarshini06&theme=github-dark)
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=deva07&theme=tokyonight)
+![](https://github-profile-trophy.vercel.app/?username=Devadarshini06&theme=tokyonight)
 
 ## 🐍 Snake
 Configure GitHub Action:
@@ -57,7 +57,7 @@ Configure GitHub Action:
 https://leetcode.card.workers.dev/
 
 ## 📫 Connect
-- GitHub: https://github.com/deva07
+- GitHub: https://github.com/Devadarshini06
 - LinkedIn: https://deva/linked.in/
 - Portfolio: Portfolio coming soon
 - Email: deva@gmail.com
