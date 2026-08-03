@@ -2,17 +2,25 @@
 <!--            HEADER             -->
 <!-- ============================= -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7F00FF&height=200&section=header&text=Deva%20Darshini&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+
 <h1 align="center">
 👋 Hi, I'm Deva
 </h1>
+
 
 <h3 align="center">
 🚀 Software Engineer | Full Stack Developer | AI & ML Enthusiast
 </h3>
 
+
 <p align="center">
 Building intelligent applications by combining software engineering, artificial intelligence, and data analytics.
 </p>
+
 
 <p align="center">
 📍 Coimbatore, India
@@ -20,53 +28,41 @@ Building intelligent applications by combining software engineering, artificial 
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Explorer;Computer+Vision+Developer;Building+Smart+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI+%26+ML+Explorer;Computer+Vision+Developer;Building+Smart+Solutions"/>
 </p>
 
 
 ---
 
-## 🙋 About Me
+# 🙋 About Me
+
 
 🎓 Computer Science & Business Systems Student  
 💻 Full Stack Developer  
-🤖 AI & Machine Learning Enthusiast  
+🤖 Artificial Intelligence & Machine Learning Enthusiast  
 📊 Data Analytics Explorer  
 👁️ Computer Vision Developer  
 
-I love creating scalable applications and intelligent systems that solve real-world problems.
+
+I enjoy building scalable applications, intelligent systems, and technology solutions that solve real-world problems.
 
 
 ---
 
 # 🛠 Tech Stack
 
+<p align="center">
 
-## 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,django,mysql,git,github,vscode"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,r"/>
 </p>
 
-
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,html,css,js,sqlite"/>
+<p align="center">
+🤖 Machine Learning &nbsp; • &nbsp; OpenCV &nbsp; • &nbsp; CNN &nbsp; • &nbsp; YOLO
 </p>
 
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
-</p>
-
-
-## 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter"/>
+<p align="center">
+📊 Pandas &nbsp; • &nbsp; NumPy &nbsp; • &nbsp; Matplotlib &nbsp; • &nbsp; Power BI
 </p>
 
 
@@ -74,35 +70,93 @@ I love creating scalable applications and intelligent systems that solve real-wo
 
 # 🚀 Featured Projects
 
-> A showcase of my work across full-stack development, AI-powered systems, and data-driven applications.
+<p align="center">
+A collection of projects exploring AI, full-stack development, and real-world problem solving.
+</p>
 
 
-## 🌱 Plant Disease Prediction
+<div align="center">
 
-AI-powered plant disease detection system using deep learning and computer vision.
+<table>
+<tr>
 
-**Tech:** Python • CNN • OpenCV
+<td width="50%" valign="top">
 
+<h3>🌱 Plant Disease Prediction</h3>
 
-## 📚 Library Management System
+AI-powered system to detect plant diseases using computer vision.
 
-A full-stack application for managing books, users, and library operations.
+<br>
 
-**Tech:** Django • Python • Database
+<b>🛠 Tech:</b>
+Python • CNN • OpenCV
 
-
-## 🌐 Portfolio Website
-
-Personal developer portfolio showcasing my skills and projects.
-
-**Tech:** HTML • CSS • JavaScript
+</td>
 
 
-## 💰 Spendora
+<td width="50%" valign="top">
 
-Expense management application focused on tracking and analyzing financial activities.
+<h3>📚 Library Management System</h3>
 
-**Tech:** Web Technologies
+Full-stack application for managing books and library operations.
+
+<br>
+
+<b>🛠 Tech:</b>
+Django • Python • Database
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Portfolio Website</h3>
+
+Personal portfolio website showcasing skills and projects.
+
+<br>
+
+<b>🛠 Tech:</b>
+HTML • CSS • JavaScript
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>💰 Spendora</h3>
+
+Expense management application for tracking finances.
+
+<br>
+
+<b>🛠 Tech:</b>
+Web Technologies
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=Devadarshini06&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Devadarshini06&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 
 ---
@@ -129,29 +183,31 @@ Expense management application focused on tracking and analyzing financial activ
 </p>
 
 
+
 ---
 
 # 📫 Connect With Me
 
+<div align="center">
 
-<p align="center">
+💻 <a href="https://github.com/Devadarshini06">GitHub</a>
+&nbsp; • &nbsp;
+🔗 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a>
+&nbsp; • &nbsp;
+✉️ <a href="mailto:devadarshininkk@gmail.com">Email</a>
 
-<a href="https://github.com/Devadarshini06">
-<img src="https://img.shields.io/badge/GitHub-Devadarshini06-black?style=for-the-badge&logo=github"/>
-</a>
+<br>
 
-<a href="mailto:devadarshininkk@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+🚀 Turning ideas into intelligent software solutions.
 
-</p>
-
+</div>
 
 ---
 
 <h3 align="center">
 💡 Code. Learn. Build. Repeat.
 </h3>
+
 
 <p align="center">
 Made with ❤️ by Deva
