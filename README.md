@@ -23,14 +23,6 @@ Currently exploring:
 
 </p>
 
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Devadarshini06&label=Profile%20Views&color=blue&style=flat"/>
-
-</p>
-
-
 ---
 
 <!-- ============================= -->
