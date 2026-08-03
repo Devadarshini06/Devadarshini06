@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Deva
 
-> **This is a condensed version** of the requested GitHub Profile README.  
-> Replace the remaining placeholder URLs before use.
+## Software Engineer | Full Stack Developer | AI & Product Builder
+
+I build software solutions that combine technology, business thinking, and user-focused design.
+
+Currently exploring:
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Business Analytics
+- Product Development
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Deva;Full+Stack+Developer;Business+Analyst;Data+Analyst;AI+%26+ML+Enthusiast" />
