@@ -124,7 +124,7 @@ Expense management application focused on tracking and analyzing financial activ
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Devadarshini06/Devadarshini06/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Devadarshini06/Devadarshini06/gh-pages/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
