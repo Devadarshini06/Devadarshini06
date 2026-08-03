@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**Devadarshini06/Devadarshini06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 👋 Hi, I'm Deva
+# 👋 Hi, I'm Deva
 
 > **This is a condensed version** of the requested GitHub Profile README.  
 > Replace the remaining placeholder URLs before use.
@@ -76,9 +66,3 @@ https://leetcode.card.workers.dev/
 
 ---
 Made with ❤️ by Deva
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
