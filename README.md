@@ -51,19 +51,13 @@ I enjoy building scalable applications, intelligent systems, and technology solu
 
 # 🛠 Tech Stack
 
-<p align="center">
+**Languages:** Python, Java, C, HTML, CSS, JavaScript
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,django,mysql,git,github,vscode"/>
+**Frameworks & Tools:** Django, MySQL, Git, GitHub, Visual Studio Code (VS Code)
 
-</p>
+**Machine Learning & Computer Vision:** Machine Learning, OpenCV, CNN, YOLO
 
-<p align="center">
-🤖 Machine Learning &nbsp; • &nbsp; OpenCV &nbsp; • &nbsp; CNN &nbsp; • &nbsp; YOLO
-</p>
-
-<p align="center">
-📊 Pandas &nbsp; • &nbsp; NumPy &nbsp; • &nbsp; Matplotlib &nbsp; • &nbsp; Power BI
-</p>
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Power BI
 
 
 ---
