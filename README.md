@@ -195,6 +195,6 @@ Web Technologies
 </h3>
 
 
-<p align="center">
+<!-- <p align="center">
 Made with ❤️ by Deva Darshini
-</p>
+</p> -->
