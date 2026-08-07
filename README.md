@@ -196,5 +196,5 @@ Web Technologies
 
 
 <p align="center">
-Made with ❤️ by Deva
+Made with ❤️ by Deva Darshini
 </p>
