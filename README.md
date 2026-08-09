@@ -8,7 +8,7 @@
 
 
 <h1 align="center">
-👋 Hi, I'm Deva
+👋 Hi, I'm Deva Darshini
 </h1>
 
 
