@@ -11,7 +11,6 @@
 👋 Hi, I'm Deva 
 </h1>
 
-
 <h3 align="center">
 🚀 Software Engineer | Full Stack Developer | AI & ML Enthusiast
 </h3>
